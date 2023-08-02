@@ -111,7 +111,7 @@ const ConversationPage = () =>
                 mt={16}
                 mb={36}
                 onChange={handleChange}
-                query={query}
+                value={query}
                 sx={{
                   input: {
                     height: 45,
